@@ -1,0 +1,439 @@
+[2022-07-15 00:55:10,505] {processor.py:153} INFO - Started process (PID=2261) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:55:10,509] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 00:55:10,515] {logging_mixin.py:115} INFO - [2022-07-15 00:55:10,515] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:55:12,690] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:55:12,751] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.254 seconds
+[2022-07-15 00:55:43,109] {processor.py:153} INFO - Started process (PID=2324) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:55:43,118] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 00:55:43,120] {logging_mixin.py:115} INFO - [2022-07-15 00:55:43,120] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:55:45,442] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:55:45,494] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.394 seconds
+[2022-07-15 00:56:16,286] {processor.py:153} INFO - Started process (PID=2384) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:56:16,288] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 00:56:16,291] {logging_mixin.py:115} INFO - [2022-07-15 00:56:16,291] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:56:18,394] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:56:18,424] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.170 seconds
+[2022-07-15 00:56:20,529] {processor.py:153} INFO - Started process (PID=2389) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:56:20,531] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 00:56:20,532] {logging_mixin.py:115} INFO - [2022-07-15 00:56:20,532] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:56:22,674] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:56:22,702] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.177 seconds
+[2022-07-15 00:56:53,194] {processor.py:153} INFO - Started process (PID=2448) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:56:53,198] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 00:56:53,201] {logging_mixin.py:115} INFO - [2022-07-15 00:56:53,201] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:56:55,333] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:56:55,461] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.274 seconds
+[2022-07-15 00:57:25,675] {processor.py:153} INFO - Started process (PID=2517) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:57:25,679] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 00:57:25,687] {logging_mixin.py:115} INFO - [2022-07-15 00:57:25,687] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:57:28,477] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:57:28,533] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.869 seconds
+[2022-07-15 00:57:59,384] {processor.py:153} INFO - Started process (PID=2577) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:57:59,413] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 00:57:59,417] {logging_mixin.py:115} INFO - [2022-07-15 00:57:59,417] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:58:03,210] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:58:03,296] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 3.929 seconds
+[2022-07-15 00:58:33,587] {processor.py:153} INFO - Started process (PID=2643) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:58:33,601] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 00:58:33,608] {logging_mixin.py:115} INFO - [2022-07-15 00:58:33,607] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:58:36,347] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:58:36,450] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.874 seconds
+[2022-07-15 00:59:07,486] {processor.py:153} INFO - Started process (PID=2705) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:59:07,492] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 00:59:07,551] {logging_mixin.py:115} INFO - [2022-07-15 00:59:07,551] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:59:10,102] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:59:10,144] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.662 seconds
+[2022-07-15 00:59:40,296] {processor.py:153} INFO - Started process (PID=2766) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:59:40,298] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 00:59:40,304] {logging_mixin.py:115} INFO - [2022-07-15 00:59:40,304] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:59:43,351] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 00:59:43,405] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 3.116 seconds
+[2022-07-15 02:59:50,100] {processor.py:153} INFO - Started process (PID=2784) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 02:59:50,114] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 02:59:50,131] {logging_mixin.py:115} INFO - [2022-07-15 02:59:50,130] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 02:59:54,484] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 02:59:54,532] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 4.462 seconds
+[2022-07-15 05:00:05,756] {processor.py:153} INFO - Started process (PID=2832) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 05:00:05,760] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 05:00:05,776] {logging_mixin.py:115} INFO - [2022-07-15 05:00:05,776] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 05:32:54,091] {logging_mixin.py:115} INFO - [2022-07-15 05:32:54,003] {timeout.py:67} ERROR - Process timed out, PID: 2832
+[2022-07-15 05:32:53,761] {logging_mixin.py:115} INFO - [2022-07-15 05:32:54,291] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/modules/pipeline.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/modules/pipeline.py", line 7, in <module>
+    from sklearn.compose import ColumnTransformer, make_column_selector
+  File "/home/airflow/.local/lib/python3.7/site-packages/sklearn/__init__.py", line 82, in <module>
+    from .base import clone
+  File "/home/airflow/.local/lib/python3.7/site-packages/sklearn/base.py", line 17, in <module>
+    from .utils import _IS_32BIT
+  File "/home/airflow/.local/lib/python3.7/site-packages/sklearn/utils/__init__.py", line 28, in <module>
+    from .fixes import np_version, parse_version
+  File "/home/airflow/.local/lib/python3.7/site-packages/sklearn/utils/fixes.py", line 20, in <module>
+    import scipy.stats
+  File "/home/airflow/.local/lib/python3.7/site-packages/scipy/stats/__init__.py", line 441, in <module>
+    from .stats import *
+  File "/home/airflow/.local/lib/python3.7/site-packages/scipy/stats/stats.py", line 38, in <module>
+    from scipy.ndimage import measurements
+  File "/home/airflow/.local/lib/python3.7/site-packages/scipy/ndimage/__init__.py", line 154, in <module>
+    from .measurements import *
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 963, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 906, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1280, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1252, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1390, in find_spec
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/modules/pipeline.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#reducing-dag-complexity, PID: 2832
+[2022-07-15 05:32:53,768] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 05:32:54,306] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1969.630 seconds
+[2022-07-15 07:33:05,329] {processor.py:153} INFO - Started process (PID=2862) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 07:33:05,331] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 07:33:05,333] {logging_mixin.py:115} INFO - [2022-07-15 07:33:05,333] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 07:33:08,062] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 07:33:08,178] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.855 seconds
+[2022-07-15 09:33:16,757] {processor.py:153} INFO - Started process (PID=2903) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 09:33:16,766] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 09:33:16,768] {logging_mixin.py:115} INFO - [2022-07-15 09:33:16,768] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 09:33:23,907] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 09:33:35,651] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 18.889 seconds
+[2022-07-15 13:01:09,704] {processor.py:153} INFO - Started process (PID=2981) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 13:01:09,732] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 13:01:09,741] {logging_mixin.py:115} INFO - [2022-07-15 13:01:09,739] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 13:01:20,910] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 13:01:21,007] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 11.324 seconds
+[2022-07-15 13:01:51,536] {processor.py:153} INFO - Started process (PID=3039) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 13:01:51,540] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 13:01:51,546] {logging_mixin.py:115} INFO - [2022-07-15 13:01:51,546] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:56:08,792] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:56:09,014] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.970 seconds
+[2022-07-15 14:56:10,621] {processor.py:153} INFO - Started process (PID=3052) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:56:10,626] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 14:56:10,797] {logging_mixin.py:115} INFO - [2022-07-15 14:56:10,793] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:56:17,032] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:56:17,052] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 6.441 seconds
+[2022-07-15 14:56:47,285] {processor.py:153} INFO - Started process (PID=3113) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:56:47,288] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 14:56:47,291] {logging_mixin.py:115} INFO - [2022-07-15 14:56:47,291] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:56:48,887] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:56:48,935] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.659 seconds
+[2022-07-15 14:57:19,166] {processor.py:153} INFO - Started process (PID=3170) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:57:19,169] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 14:57:19,171] {logging_mixin.py:115} INFO - [2022-07-15 14:57:19,171] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:57:21,111] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:57:21,148] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.987 seconds
+[2022-07-15 14:57:51,485] {processor.py:153} INFO - Started process (PID=3228) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:57:51,487] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 14:57:51,489] {logging_mixin.py:115} INFO - [2022-07-15 14:57:51,489] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:57:52,918] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:57:52,945] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.468 seconds
+[2022-07-15 14:58:23,248] {processor.py:153} INFO - Started process (PID=3287) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:58:23,250] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 14:58:23,253] {logging_mixin.py:115} INFO - [2022-07-15 14:58:23,253] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:58:24,951] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:58:24,992] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.751 seconds
+[2022-07-15 14:58:55,978] {processor.py:153} INFO - Started process (PID=3350) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:58:55,981] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 14:58:55,983] {logging_mixin.py:115} INFO - [2022-07-15 14:58:55,983] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:58:57,795] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:58:57,829] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.856 seconds
+[2022-07-15 14:59:28,408] {processor.py:153} INFO - Started process (PID=3419) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:59:28,417] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 14:59:28,427] {logging_mixin.py:115} INFO - [2022-07-15 14:59:28,427] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:59:30,258] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 14:59:30,280] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.884 seconds
+[2022-07-15 15:00:00,557] {processor.py:153} INFO - Started process (PID=3480) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:00:00,561] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:00:00,565] {logging_mixin.py:115} INFO - [2022-07-15 15:00:00,564] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:00:04,146] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:00:04,202] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 3.658 seconds
+[2022-07-15 15:00:35,115] {processor.py:153} INFO - Started process (PID=3541) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:00:35,118] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:00:35,120] {logging_mixin.py:115} INFO - [2022-07-15 15:00:35,120] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:00:36,569] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:00:36,622] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.514 seconds
+[2022-07-15 15:01:07,701] {processor.py:153} INFO - Started process (PID=3609) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:01:07,707] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:01:07,712] {logging_mixin.py:115} INFO - [2022-07-15 15:01:07,711] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:01:09,776] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:01:09,819] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.148 seconds
+[2022-07-15 15:01:39,978] {processor.py:153} INFO - Started process (PID=3672) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:01:39,981] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:01:39,983] {logging_mixin.py:115} INFO - [2022-07-15 15:01:39,983] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:01:41,794] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:01:41,855] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.892 seconds
+[2022-07-15 15:02:12,090] {processor.py:153} INFO - Started process (PID=3734) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:02:12,094] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:02:12,096] {logging_mixin.py:115} INFO - [2022-07-15 15:02:12,096] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:02:14,260] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:02:14,312] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.233 seconds
+[2022-07-15 15:02:44,765] {processor.py:153} INFO - Started process (PID=3795) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:02:44,770] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:02:44,797] {logging_mixin.py:115} INFO - [2022-07-15 15:02:44,797] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:02:47,392] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:02:47,419] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.674 seconds
+[2022-07-15 15:03:17,737] {processor.py:153} INFO - Started process (PID=3867) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:03:17,739] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:03:17,741] {logging_mixin.py:115} INFO - [2022-07-15 15:03:17,741] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:03:19,478] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:03:19,521] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.789 seconds
+[2022-07-15 15:03:49,749] {processor.py:153} INFO - Started process (PID=3928) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:03:49,752] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:03:49,753] {logging_mixin.py:115} INFO - [2022-07-15 15:03:49,753] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:03:51,985] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:03:52,008] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.269 seconds
+[2022-07-15 15:04:22,245] {processor.py:153} INFO - Started process (PID=4000) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:04:22,247] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:04:22,255] {logging_mixin.py:115} INFO - [2022-07-15 15:04:22,255] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:04:24,214] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:04:24,247] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.009 seconds
+[2022-07-15 15:04:54,755] {processor.py:153} INFO - Started process (PID=4058) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:04:54,757] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:04:54,760] {logging_mixin.py:115} INFO - [2022-07-15 15:04:54,760] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:04:56,354] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:04:56,376] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.625 seconds
+[2022-07-15 15:05:27,123] {processor.py:153} INFO - Started process (PID=4118) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:05:27,126] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:05:27,129] {logging_mixin.py:115} INFO - [2022-07-15 15:05:27,129] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:05:28,559] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:05:28,649] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.535 seconds
+[2022-07-15 15:05:58,800] {processor.py:153} INFO - Started process (PID=4184) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:05:58,802] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:05:58,803] {logging_mixin.py:115} INFO - [2022-07-15 15:05:58,803] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:06:00,279] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:06:00,354] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.560 seconds
+[2022-07-15 15:06:30,639] {processor.py:153} INFO - Started process (PID=4242) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:06:30,643] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:06:30,645] {logging_mixin.py:115} INFO - [2022-07-15 15:06:30,645] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:06:32,889] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:06:32,927] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.293 seconds
+[2022-07-15 15:07:03,163] {processor.py:153} INFO - Started process (PID=4300) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:07:03,165] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:07:03,170] {logging_mixin.py:115} INFO - [2022-07-15 15:07:03,169] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:07:04,795] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:07:04,831] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.679 seconds
+[2022-07-15 15:07:35,115] {processor.py:153} INFO - Started process (PID=4360) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:07:35,118] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:07:35,120] {logging_mixin.py:115} INFO - [2022-07-15 15:07:35,120] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:07:36,870] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:07:36,890] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.780 seconds
+[2022-07-15 15:08:07,221] {processor.py:153} INFO - Started process (PID=4431) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:08:07,227] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:08:07,231] {logging_mixin.py:115} INFO - [2022-07-15 15:08:07,231] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:08:09,213] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:08:09,244] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.052 seconds
+[2022-07-15 15:08:39,462] {processor.py:153} INFO - Started process (PID=4491) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:08:39,469] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:08:39,472] {logging_mixin.py:115} INFO - [2022-07-15 15:08:39,472] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:08:41,906] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:08:41,943] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.487 seconds
+[2022-07-15 15:09:12,486] {processor.py:153} INFO - Started process (PID=4552) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:09:12,489] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:09:12,491] {logging_mixin.py:115} INFO - [2022-07-15 15:09:12,491] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:09:14,056] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:09:14,141] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.660 seconds
+[2022-07-15 15:09:45,073] {processor.py:153} INFO - Started process (PID=4620) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:09:45,076] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:09:45,078] {logging_mixin.py:115} INFO - [2022-07-15 15:09:45,078] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:09:47,350] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:09:47,413] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.345 seconds
+[2022-07-15 15:10:36,788] {processor.py:153} INFO - Started process (PID=4679) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:10:36,899] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:10:36,902] {logging_mixin.py:115} INFO - [2022-07-15 15:10:36,902] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:10:41,745] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:10:41,811] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 5.065 seconds
+[2022-07-15 15:11:12,209] {processor.py:153} INFO - Started process (PID=4746) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:11:12,211] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:11:12,215] {logging_mixin.py:115} INFO - [2022-07-15 15:11:12,215] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:11:13,993] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:11:14,033] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.832 seconds
+[2022-07-15 15:11:44,566] {processor.py:153} INFO - Started process (PID=4804) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:11:44,568] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:11:44,572] {logging_mixin.py:115} INFO - [2022-07-15 15:11:44,572] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:11:46,823] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:11:46,891] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.333 seconds
+[2022-07-15 15:12:17,274] {processor.py:153} INFO - Started process (PID=4864) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:12:17,277] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:12:17,279] {logging_mixin.py:115} INFO - [2022-07-15 15:12:17,279] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:12:18,655] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:12:18,680] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.420 seconds
+[2022-07-15 15:12:48,830] {processor.py:153} INFO - Started process (PID=4924) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:12:48,833] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:12:48,836] {logging_mixin.py:115} INFO - [2022-07-15 15:12:48,835] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:12:50,656] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:12:50,717] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.899 seconds
+[2022-07-15 15:13:21,359] {processor.py:153} INFO - Started process (PID=4992) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:13:21,361] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:13:21,364] {logging_mixin.py:115} INFO - [2022-07-15 15:13:21,364] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:13:23,510] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:13:23,551] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.202 seconds
+[2022-07-15 15:13:53,699] {processor.py:153} INFO - Started process (PID=5052) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:13:53,701] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:13:53,703] {logging_mixin.py:115} INFO - [2022-07-15 15:13:53,703] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:13:55,334] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:13:55,367] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.679 seconds
+[2022-07-15 15:14:25,799] {processor.py:153} INFO - Started process (PID=5115) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:14:25,803] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:14:25,808] {logging_mixin.py:115} INFO - [2022-07-15 15:14:25,808] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:14:27,897] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:14:27,922] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.129 seconds
+[2022-07-15 15:14:58,658] {processor.py:153} INFO - Started process (PID=5177) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:14:58,662] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:14:58,665] {logging_mixin.py:115} INFO - [2022-07-15 15:14:58,665] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:15:01,069] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:15:01,142] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.490 seconds
+[2022-07-15 15:15:31,342] {processor.py:153} INFO - Started process (PID=5242) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:15:31,346] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:15:31,352] {logging_mixin.py:115} INFO - [2022-07-15 15:15:31,351] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:15:33,278] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:15:33,318] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.986 seconds
+[2022-07-15 15:16:03,666] {processor.py:153} INFO - Started process (PID=5309) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:16:03,669] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:16:03,672] {logging_mixin.py:115} INFO - [2022-07-15 15:16:03,672] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:16:06,032] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:16:06,068] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.419 seconds
+[2022-07-15 15:16:36,261] {processor.py:153} INFO - Started process (PID=5372) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:16:36,263] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:16:36,265] {logging_mixin.py:115} INFO - [2022-07-15 15:16:36,265] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:16:38,171] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:16:38,200] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.969 seconds
+[2022-07-15 15:17:08,381] {processor.py:153} INFO - Started process (PID=5434) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:17:08,383] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:17:08,388] {logging_mixin.py:115} INFO - [2022-07-15 15:17:08,388] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:17:10,176] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:17:10,222] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.878 seconds
+[2022-07-15 15:17:40,520] {processor.py:153} INFO - Started process (PID=5492) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:17:40,522] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:17:40,525] {logging_mixin.py:115} INFO - [2022-07-15 15:17:40,525] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:17:42,111] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:17:42,142] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.627 seconds
+[2022-07-15 15:18:12,320] {processor.py:153} INFO - Started process (PID=5560) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:18:12,322] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:18:12,325] {logging_mixin.py:115} INFO - [2022-07-15 15:18:12,325] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:18:13,994] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:18:14,021] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.707 seconds
+[2022-07-15 15:18:44,648] {processor.py:153} INFO - Started process (PID=5618) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:18:44,665] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:18:44,672] {logging_mixin.py:115} INFO - [2022-07-15 15:18:44,672] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:18:46,701] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:18:46,726] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.087 seconds
+[2022-07-15 15:19:17,292] {processor.py:153} INFO - Started process (PID=5676) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:19:17,294] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:19:17,296] {logging_mixin.py:115} INFO - [2022-07-15 15:19:17,296] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:19:18,692] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:19:18,730] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.446 seconds
+[2022-07-15 15:19:48,850] {processor.py:153} INFO - Started process (PID=5735) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:19:48,855] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:19:48,859] {logging_mixin.py:115} INFO - [2022-07-15 15:19:48,859] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:19:51,502] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:19:51,585] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.749 seconds
+[2022-07-15 15:20:22,283] {processor.py:153} INFO - Started process (PID=5792) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:20:22,284] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:20:22,286] {logging_mixin.py:115} INFO - [2022-07-15 15:20:22,286] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:20:25,090] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:20:25,147] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.902 seconds
+[2022-07-15 15:20:55,397] {processor.py:153} INFO - Started process (PID=5859) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:20:55,400] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:20:55,402] {logging_mixin.py:115} INFO - [2022-07-15 15:20:55,402] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:20:57,245] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:20:57,273] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.881 seconds
+[2022-07-15 15:21:27,759] {processor.py:153} INFO - Started process (PID=5919) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:21:27,762] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:21:27,765] {logging_mixin.py:115} INFO - [2022-07-15 15:21:27,765] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:21:29,727] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:21:29,776] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.023 seconds
+[2022-07-15 15:22:00,332] {processor.py:153} INFO - Started process (PID=5977) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:22:00,334] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:22:00,336] {logging_mixin.py:115} INFO - [2022-07-15 15:22:00,336] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:22:02,077] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:22:02,127] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.808 seconds
+[2022-07-15 15:22:33,080] {processor.py:153} INFO - Started process (PID=6036) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:22:33,100] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:22:33,102] {logging_mixin.py:115} INFO - [2022-07-15 15:22:33,102] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:22:34,857] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:22:34,889] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.813 seconds
+[2022-07-15 15:23:05,027] {processor.py:153} INFO - Started process (PID=6101) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:23:05,029] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:23:05,032] {logging_mixin.py:115} INFO - [2022-07-15 15:23:05,032] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:23:07,641] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:23:07,667] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.647 seconds
+[2022-07-15 15:23:37,892] {processor.py:153} INFO - Started process (PID=6162) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:23:37,895] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:23:37,896] {logging_mixin.py:115} INFO - [2022-07-15 15:23:37,896] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:23:39,755] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:23:39,788] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.910 seconds
+[2022-07-15 15:24:09,990] {processor.py:153} INFO - Started process (PID=6225) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:24:09,992] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:24:09,994] {logging_mixin.py:115} INFO - [2022-07-15 15:24:09,994] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:24:12,471] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:24:12,496] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.512 seconds
+[2022-07-15 15:24:42,747] {processor.py:153} INFO - Started process (PID=6292) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:24:42,751] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:24:42,753] {logging_mixin.py:115} INFO - [2022-07-15 15:24:42,753] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:24:44,914] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:24:44,963] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.228 seconds
+[2022-07-15 15:25:15,345] {processor.py:153} INFO - Started process (PID=6359) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:25:15,347] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:25:15,360] {logging_mixin.py:115} INFO - [2022-07-15 15:25:15,360] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:25:17,104] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:25:17,152] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.813 seconds
+[2022-07-15 15:25:47,384] {processor.py:153} INFO - Started process (PID=6423) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:25:47,386] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:25:47,389] {logging_mixin.py:115} INFO - [2022-07-15 15:25:47,388] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:25:49,492] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:25:49,522] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 2.143 seconds
+[2022-07-15 15:26:19,731] {processor.py:153} INFO - Started process (PID=6483) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:26:19,740] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:26:19,743] {logging_mixin.py:115} INFO - [2022-07-15 15:26:19,743] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:26:21,562] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:26:21,615] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 1.896 seconds
+[2022-07-15 15:26:51,765] {processor.py:153} INFO - Started process (PID=6545) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 15:26:51,768] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 15:26:51,775] {logging_mixin.py:115} INFO - [2022-07-15 15:26:51,775] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 17:26:55,680] {logging_mixin.py:115} INFO - [2022-07-15 17:26:55,677] {timeout.py:67} ERROR - Process timed out, PID: 6545
+[2022-07-15 17:26:51,030] {logging_mixin.py:115} INFO - [2022-07-15 17:26:50,970] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/modules/pipeline.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/modules/pipeline.py", line 6, in <module>
+    import pandas as pd
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/__init__.py", line 50, in <module>
+    from pandas.core.api import (
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/api.py", line 48, in <module>
+    from pandas.core.groupby import (
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/groupby/__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/groupby/generic.py", line 76, in <module>
+    from pandas.core.groupby.groupby import (
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 857, in get_code
+  File "<frozen importlib._bootstrap_external>", line 523, in _compile_bytecode
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/modules/pipeline.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#reducing-dag-complexity, PID: 6545
+[2022-07-15 17:26:51,040] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 17:26:51,271] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 7204.404 seconds
+[2022-07-15 17:26:54,638] {processor.py:153} INFO - Started process (PID=6557) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 17:26:54,645] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 17:26:54,684] {logging_mixin.py:115} INFO - [2022-07-15 17:26:54,683] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 17:26:59,294] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 17:26:59,348] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 4.726 seconds
+[2022-07-15 23:27:28,040] {processor.py:153} INFO - Started process (PID=6641) to work on /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 23:27:28,043] {processor.py:641} INFO - Processing file /opt/airflow/dags/modules/pipeline.py for tasks to queue
+[2022-07-15 23:27:28,046] {logging_mixin.py:115} INFO - [2022-07-15 23:27:28,046] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 23:27:34,072] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/modules/pipeline.py
+[2022-07-15 23:27:34,099] {processor.py:161} INFO - Processing /opt/airflow/dags/modules/pipeline.py took 6.079 seconds
